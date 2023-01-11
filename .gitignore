@@ -1,10 +1,5 @@
-# R project
-.Rproj.user
-.Rhistory
-.RData
-.Ruserdata
-
-# RStudio Knit outputs
-*.html
-*.pdf
-*.docx
+library/
+local/
+lock/
+python/
+staging/
